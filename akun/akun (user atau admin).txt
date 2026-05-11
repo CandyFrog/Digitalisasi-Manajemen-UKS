@@ -1,0 +1,7 @@
+ROLE ADMIN
+username: admin@uks.com
+password: password
+
+ROLE PETUGAS/USER
+username: petugas@uks.com
+password: password

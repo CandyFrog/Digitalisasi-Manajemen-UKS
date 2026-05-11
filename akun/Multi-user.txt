@@ -1,0 +1,1 @@
+Multi-user: Ada akun admin@uks.com dan petugas@uks.com (password-nya "password" untuk dua-duanya).
